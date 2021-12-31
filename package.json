@@ -1,0 +1,23 @@
+{
+  "name": "karmagangchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1Ru1o/KarmaGangChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e1Ru1o/KarmaGangChallenge/issues"
+  },
+  "homepage": "https://github.com/e1Ru1o/KarmaGangChallenge#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
