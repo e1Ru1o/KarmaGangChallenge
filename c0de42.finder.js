@@ -28,5 +28,5 @@ for (let i = 0; ; ++i) {
         break;
     }
     // uncomment the below line to know the last number processed 
-    // console.log(i)
+    // console.log(i);
 }
